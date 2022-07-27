@@ -1,2 +1,2 @@
 # Shopify-Data-Challenge
-A data science challenge from Shopify
+A data science challenge from Shopify, Python + SQL
